@@ -17,3 +17,5 @@
 
 可以适配其它WLAN
 
+小白通过ChatGPT及Python编写
+
